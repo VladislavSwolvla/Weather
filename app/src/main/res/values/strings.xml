@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string-array name="names">
+        <item>Набережные Челны</item>
+        <item>Казань</item>
+        <item>Елабуга</item>
+    </string-array>
+
+
+</resources>
